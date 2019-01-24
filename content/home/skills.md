@@ -35,7 +35,7 @@ weight = 7
 
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Statistics"
   description = "80%"  
 
