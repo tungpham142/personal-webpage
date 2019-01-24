@@ -13,7 +13,7 @@ role = "Graduate Student in Computer Science at The University of Texas at Arlin
 organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Big Data and Machine Learning. "
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "tpv.142@gmail.com"
@@ -88,6 +88,4 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Big Data and Machine Learning. 
