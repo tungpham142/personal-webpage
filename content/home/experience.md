@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Texas"
   date_start = "May 2018"
   date_end = "August 2018"
-  description = ""
+  description = """
   Responsibilities include:
 
   * Used Visual Studio with Mock and Fake frameworks to work with international teams on
