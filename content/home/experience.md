@@ -35,12 +35,12 @@ to make sure there are 3000 lines of code are covered each week.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Web Developer"
+  company = Lingbook Inc."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Texas"
+  date_start = "January 2018"
+  date_end = "April 2018"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
