@@ -25,30 +25,30 @@ weight = 7
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "90%"
+  description = "75%"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"  
+  description = "70%"  
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "80%"  
+  description = "60%"  
 
 [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "Javascript"
-  description = "70%"
+  description = "50%"
 
 [[feature]]
   icon = "php"
   icon_pack = "fab"
   name = "Php"
-  description = "70%"
+  description = "50%"
 
 +++
