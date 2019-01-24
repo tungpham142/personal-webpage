@@ -23,6 +23,7 @@ date_format = "January 2006"
   date_start = "2017-05-01"
   date_end = "2017-12-31"
   description = """
+  
   * Developed 3D VR chess game that can be played against Artificial Intelligence using Oculus
 Rift.
   * Contributed to the chess board logical and Artificial Intelligence system required understanding
