@@ -53,7 +53,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:tpv.142@gmail.com".
+  mailto:tpv.142@gmail.com  
 
 [[social]]
   icon = "linkedin"
@@ -69,4 +69,4 @@ interests = [
 
 +++
 
-Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Databases, Artificial Intelligence, and Machine Learning. 
+Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Databases, Artificial Intelligence, and Machine Learning.
