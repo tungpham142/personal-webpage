@@ -24,7 +24,8 @@ date_format = "January 2006"
   company_url = "https://www.aurea.com/"
   location = "Texas"
   date_start = "May 2018"
-  date_end = "August 2018""
+  date_end = "August 2018"
+  description = ""
   Responsibilities include:
 
   * Used Visual Studio with Mock and Fake frameworks to work with international teams on
