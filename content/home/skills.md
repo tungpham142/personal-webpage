@@ -13,9 +13,9 @@ subtitle = ""
 weight = 7
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # Available icon packs and icons:
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
@@ -24,19 +24,25 @@ weight = 7
 [[feature]]
   icon = "java"
   icon_pack = "fab"
-  name = "java"
+  name = "Java"
   description = "90%"
-  
+
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "python"
+  name = "Python"
   description = "90%"  
-  
+
+[[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "Javascript"
+  description = "70%"
+
 [[feature]]
   icon = "php"
   icon_pack = "fab"
-  name = "php"
+  name = "Php"
   description = "70%"
 
 +++

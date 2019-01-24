@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Experiences"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
