@@ -22,6 +22,5 @@ date_format = "January 2006"
   title = "VR Chess game/ Unity Game"
   date_start = "2017-05-01"
   date_end = "2017-12-31"
-  description = "Developed 3D VR chess game that can be played against Artificial Intelligence using Oculus
-Rift. "
+  description = " Developed 3D VR chess game that can be played against Artificial Intelligence using Oculus Rift. "
 +++
