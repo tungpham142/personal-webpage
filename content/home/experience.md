@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Aurea Software"
   company_url = "https://www.aurea.com/"
   location = "Texas"
-  date_start = "May 2018"
-  date_end = "August 2018"
+  date_start = "2018-05-01"
+  date_end = "2018-08-31"
   description = """
   Responsibilities include:
 
@@ -40,8 +40,8 @@ to make sure there are 3000 lines of code are covered each week.
   company = "Lingbook Inc."
   company_url = ""
   location = "Texas"
-  date_start = "January 2018"
-  date_end = "April 2018"
+  date_start = "2018-01-01"
+  date_end = "2018-04-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
