@@ -19,18 +19,19 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  title = "Software Engineer"
+  company = "Aurea Software"
+  company_url = "https://www.aurea.com/"
+  location = "Texas"
+  date_start = "May 2018"
+  date_end = "August 2018"
   Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Used Visual Studio with Mock and Fake frameworks to work with international teams on
+implemented Unit Tests and ensured more than 85% lines of code from different C# projects are
+covered and functioned as expected.
+  * Collaborated with teams from distance using remote communicate tools such as Github and Skype
+to make sure there are 3000 lines of code are covered each week.
   """
 
 [[experience]]

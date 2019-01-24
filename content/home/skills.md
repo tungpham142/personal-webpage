@@ -34,6 +34,12 @@ weight = 7
   description = "90%"  
 
 [[feature]]
+  icon = "statistic"
+  icon_pack = "fab"
+  name = "Statistic"
+  description = "80%"  
+
+[[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "Javascript"
