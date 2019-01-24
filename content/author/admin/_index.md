@@ -6,11 +6,11 @@ name = "Tung Pham"
 superuser = true
 
 # Role/position
-role = "Graduate Student in Computer Science at The University of Texas at Arlington"
+role = "Graduate Student in Computer Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Texas at Arlington", url = "https://cse.uta.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -21,25 +21,18 @@ email = "tpv.142@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Machine Learning",
+  "Information Retrieval",
+  "Database Management",
+  "Web Development",
+  "Software Development"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor's Degree in Software Engineer"
+  institution = "University of Texas at Arlington"
+  year = 2017
 
 # Social/Academic Networking
 #
