@@ -37,7 +37,7 @@ to make sure there are 3000 lines of code are covered each week.
 
 [[experience]]
   title = "Web Developer"
-  company = Lingbook Inc."
+  company = "Lingbook Inc."
   company_url = ""
   location = "Texas"
   date_start = "January 2018"
