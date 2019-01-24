@@ -34,9 +34,9 @@ weight = 7
   description = "90%"  
   
 [[feature]]
-  icon = "c-sharp"
+  icon = "php"
   icon_pack = "fab"
-  name = "c#"
-  description = "90%"
+  name = "php"
+  description = "70%"
 
 +++
