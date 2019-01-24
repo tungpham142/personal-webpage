@@ -32,5 +32,6 @@ Inventory Management System/ MySQL Database:
    * Built basic PHP website that used SQL language to manipulate the data.
 
 University Bazaar System/Android Mobile App:
+
    * Developed Android Application that allows students exchange information, form clubs, and trade goods online.
    * Completed an application from scratch strengthened the ability to work in team, UML designing skills, and got familiar with Android Studio.
