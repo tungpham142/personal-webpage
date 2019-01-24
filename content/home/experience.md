@@ -42,7 +42,7 @@ to make sure there are 3000 lines of code are covered each week.
   location = "Texas"
   date_start = "2018-01-01"
   date_end = "2018-04-01"
-  description = ""Developed web application on lingbook.io - a small start-up site allows foreigners to learn new vocabulary base on phrases""
+  description = "Developed web application on lingbook.io - a small start-up site allows foreigners to learn new vocabulary base on phrases""
 
 [[experience]]
   title = "Web Developer"
