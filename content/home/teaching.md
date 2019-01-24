@@ -23,8 +23,6 @@ VR Chess game/ Unity Game:
 National Trade Show Services:
 
    * Designed and documented architecture system for business customers to run national and international trade shows using Agile Development.
-   * The architecture systems required knowledge of Design Patterns and UML diagrams.
-   * Worked as a team in Agile Environment reinforced critical thinking and adaptability skills.
 
 Inventory Management System/ MySQL Database:
 
@@ -34,4 +32,3 @@ Inventory Management System/ MySQL Database:
 University Bazaar System/Android Mobile App:
 
    * Developed Android Application that allows students exchange information, form clubs, and trade goods online.
-   * Completed an application from scratch strengthened the ability to work in team, UML designing skills, and got familiar with Android Studio.
