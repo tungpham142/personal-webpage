@@ -1,51 +1,67 @@
 +++
-# Projects widget.
-widget = "projects"
-active = true
-date = 2016-04-20T00:00:00
+# Experience widget.
+widget = "project"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
 title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 8
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "January 2006"
 
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 1
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[project]]
+  title = "VR Chess game/ Unity Game"
+  date_start = "2017-05-01"
+  date_end = "2017-12-31"
+  description = """
+  * Developed 3D VR chess game that can be played against Artificial Intelligence using Oculus
+Rift.
+  * Contributed to the chess board logical and Artificial Intelligence system required understanding
+C# programming language and Unity.
+    """"
 
-# Widget layout
-# Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
 
-# For Showcase view, flip alternate rows?
-flip_alt_rows = false
+[[experience]]
+  title = "Web Developer"
+  company = "Lingbook Inc."
+  company_url = ""
+  location = "Texas"
+  date_start = "2018-01-01"
+  date_end = "2018-04-01"
+  description = "Developed web application on lingbook.io, a small start-up site allows foreigners to learn new vocabulary base on phrases."
 
-# Filter toolbar.
+[[experience]]
+  title = "Web Developer"
+  company = "Ayoka Systems"
+  company_url = "https://www.ayokasystems.com/"
+  location = "Texas"
+  date_start = "2017-08-01"
+  date_end = "2018-01-01"
+  description = """
+  Responsibilities include:
 
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
+* Worked in teams to develop and maintain customer's web application using ASP .Net.
+* Used Source Tree as tool to collaborate, review, and debug other's code.
+* Implement new features on top of the existing functionality and backward compatibility
+with old releases.
+* Perform Bug fixing both for UI and business logic.
+    """
 
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# To show all items, set `tag` to "*".
-# To filter by a specific tag, set `tag` to an existing tag name.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-
- [[filter]]
-   name = "Deep Learning"
-   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
-
+  [[experience]]
+    title = "Computer Assistant"
+    company = "Goodwill Industry"
+    company_url = "https://www.goodwillcentraltexas.org/"
+    location = "Texas"
+    date_start = "2015-06-01"
+    date_end = "2015-09-30"
+    description = "Collaborated with other volunteers to train students with Microsoft Office and Internet Browser. "
 +++
