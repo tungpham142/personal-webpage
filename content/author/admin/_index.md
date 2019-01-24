@@ -6,18 +6,17 @@ name = "Tung Pham"
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Graduate Student in Computer Science at The University of Texas at Arlington"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Big Data and Machine Learning.
-"
+bio = "Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Big Data and Machine Learning. "
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "tpv.142@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
