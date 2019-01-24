@@ -53,7 +53,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  mailto:tpv.142@gmail.com  
+  link = "mailto:tpv.142@gmail.com" 
 
 [[social]]
   icon = "linkedin"
