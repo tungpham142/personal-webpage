@@ -17,9 +17,9 @@ weight = 60
 
 VR Chess game/ Unity Game:
 
-   Developed 3D VR chess game that can be played against Artificial Intelligence using Oculus Rift.
+   * Developed 3D VR chess game that can be played against Artificial Intelligence using Oculus Rift.
 
-   Contributed to the chess board logical and Artificial Intelligence system required understanding C# programming language and Unity.
+   * Contributed to the chess board logical and Artificial Intelligence system required understanding C# programming language and Unity.
 
 
 National Trade Show Services:
@@ -43,4 +43,3 @@ University Bazaar System/Android Mobile App:
    Developed Android Application that allows students exchange information, form clubs, and trade goods online.
 
    Completed an application from scratch strengthened the ability to work in team, UML designing skills, and got familiar with Android Studio.
-   
