@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Tung Pham"
 
 # Is this the primary user of the site?
 superuser = true
@@ -13,7 +13,8 @@ role = "Professor of Artificial Intelligence"
 organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Big Data and Machine Learning.
+"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
