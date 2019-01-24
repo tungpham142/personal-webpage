@@ -23,9 +23,7 @@ interests = [
   "Artificial Intelligence",
   "Machine Learning",
   "Information Retrieval",
-  "Database Management",
-  "Web Development",
-  "Software Development"
+  "Web Development"
 ]
 
 # List qualifications (such as academic degrees)
@@ -62,18 +60,13 @@ interests = [
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/tung-pham-444168a4/"
 
-[[social]]
-  icon = "cv"
-  icon_pack = "ai"
-  link = "https://github.com/gcushen"
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
 
 +++
 
-Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Big Data and Machine Learning. 
+Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Databases, Artificial Intelligence, and Machine Learning. 
