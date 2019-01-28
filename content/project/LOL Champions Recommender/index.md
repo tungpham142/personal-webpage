@@ -21,7 +21,7 @@ external_link = ""
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "LCR_Proposal.pdf"
+# slides = "LCR_Proposal.pdf"
 
 # Links (optional).
 #url_pdf = ""
@@ -31,7 +31,7 @@ slides = "LCR_Proposal.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+ url_custom = [{name="{Proposal}", url = "https://tungpham.netlify.com/project/lol-champions-recommender/LCR_Proposal.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
