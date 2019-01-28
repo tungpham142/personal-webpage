@@ -15,7 +15,7 @@ tags = ["recommender-system", "video-game"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
- Slides (optional).
+# Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references
