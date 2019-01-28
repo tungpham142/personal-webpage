@@ -42,10 +42,14 @@ filter_default = 0
 
  [[filter]]
    name = "Recommender System"
-   tag = "Recommender System"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+   tag = "recommender-system"
+
+ [[filter]]
+   name = "Video Game"
+   tag = "video-game"   
+
+ [[filter]]
+   name = "Other"
+   tag = "other"
 
 +++
