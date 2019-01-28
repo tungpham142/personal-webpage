@@ -39,10 +39,10 @@ filter_default = 0
 # [[filter]]
 #   name = "All"
 #   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
+
+ [[filter]]
+   name = "Recommender System"
+   tag = "Recommender System"
 #
 # [[filter]]
 #   name = "Other"
