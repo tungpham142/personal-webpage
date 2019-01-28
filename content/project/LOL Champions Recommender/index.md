@@ -45,4 +45,6 @@ slides = ""
 +++
 
 League of Legends is a very popular online game with over 100 million active monthly players and have become the largest online gaming community. With the rapid development of eSports, the League of Legends 2018 World Championship had the prize pool of over 6 million dollar and attracted at peak, over 200 million viewers at once. The game starts with two teams of five teammates, and their objective is to destroy the opponent’s base. Each player will pick a champion who has unique skill set before each match. In the other hand, League of Legends has over 140 different champions, so that, knowing how to control all the characters efficiently is very challenging and time consuming. Most of the players only use and master about 5 champions to play the game. However, what if one is getting bored with his champions pool and want to try something new, or one just joins game and wants to explore? They would want to find other champions to play and gain new exciting experiment. Champions recommender application gives the players opportunity to find new champions, base on their given list, or simply help them find their favorite champion stats to improve their skills and ranks in game.
-![Result Page](result.png) ![Recommend Page](recommend.png)
+![Home Page](featured.png)
+![Recommend Page](recommend.png)
+![Result Page](result.png)
