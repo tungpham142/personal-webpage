@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "League of Legends Champions Recommender"
+title = "TED Recommender"
 
 # Date this page was created.
 date = 2019-01-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "An application to recommend similar champions in League of Legends game."
+summary = "An application to recommend similar videos on TED-Talks"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["recommender-system", "video-game"]
+tags = ["recommender-system", "ideas"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -41,7 +41,7 @@ external_link = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Left"
 +++
   In the rapid development society nowadays, new ideas are introduced every day. People spend more time to improve themselves by studying and adapting new skills. Learning is not restricted to schools and classrooms anymore, but people can pick up knowledge, or get inspired by an entrepreneur from another country by his stories online. With the mission to spread ideas, TED is a non-profit organization established in 1984 as a conference where Technology, Entertainment and Design converged. As the growth of the internet, TED became an online media platform with short, powerful talks, which covers almost all topics in more than 100 languages.
 
