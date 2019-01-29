@@ -45,8 +45,8 @@ filter_default = 0
    tag = "recommender-system"
 
  [[filter]]
-   name = "Video Game"
-   tag = "video-game"   
+   name = "Ideas"
+   tag = "ideas"   
 
  [[filter]]
    name = "Other"
