@@ -32,6 +32,8 @@ external_link = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
  url_custom = [{icon_pack = "far", icon="file-pdf", name="Proposal", url = "https://tungpham.netlify.com/project/ted-recommender/TED-Recommender-Proposal.pdf"}]
+ url_custom = [{icon_pack = "far", icon="html", name="Proposal", url = "https://tungpham.netlify.com/project/ted-recommender/Ted-Recommender-Sketches.mht}]
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
