@@ -31,7 +31,7 @@ external_link = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{icon_pack = "far", icon="file-pdf", name="Proposal", url = "https://tungpham.netlify.com/project/ted-recommender/TED-Recommender-Proposal.pdf"}]
+ url_pdf = [{icon_pack = "far", icon="file-pdf", name="Proposal", url = "https://tungpham.netlify.com/project/ted-recommender/TED-Recommender-Proposal.pdf"}]
  url_custom = [{icon_pack = "far", icon="html", name="Sketches", url = "https://tungpham.netlify.com/project/ted-recommender/Ted-Recommender-Sketches.mht}]
 
 
