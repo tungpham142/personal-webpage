@@ -54,5 +54,5 @@ Front-end designs and expectations:
 
 Sketches:
 <img src="search-sketch.png" alt="Search-sketch" width="200%" height="200%"/>
-![Classify-sketch](classify-sketch.png)(https://tungpham.netlify.com/project/ted-recommender/classify-sketch.png)
+<a href=https://tungpham.netlify.com/project/ted-recommender/classify-sketch.png" rel="Classify-sketch">![Classify-sketch](classify-sketch.png)</a>
 ![Recommend-sketch](recommend-sketch.png)  
