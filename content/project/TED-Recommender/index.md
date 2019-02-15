@@ -31,7 +31,7 @@ external_link = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{icon_pack = "far", icon="file-pdf", name="Proposal", url = "https://tungpham.netlify.com/project/ted-recommender/TED-Recommender-Proposal.pdf"}]
+ url_custom = [{icon_pack = "far", icon="file-pdf", name="Proposal", url = "https://tungpv.com.com/project/ted-recommender/TED-Recommender-Proposal.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
@@ -53,6 +53,6 @@ Front-end designs and expectations:
 ![Result Page](result.png)
 
 Sketches:
-<a href=https://tungpham.netlify.com/project/ted-recommender/search-sketch.png rel="Search-Sketches">![Search-Sketches](search-sketch.png)  
-<a href=https://tungpham.netlify.com/project/ted-recommender/classify-sketch.png rel="Classify-sketch">![Classify-sketch](classify-sketch.png)</a>
-<a href=https://tungpham.netlify.com/project/ted-recommender/recommend-sketch.png rel="Recommend-sketch">![Recommend-sketch](recommend-sketch.png)  
+<a href=https://tungpv.com.com/project/ted-recommender/search-sketch.png rel="Search-Sketches">![Search-Sketches](search-sketch.png)  
+<a href=https://tungpv.com.com/project/ted-recommender/classify-sketch.png rel="Classify-sketch">![Classify-sketch](classify-sketch.png)</a>
+<a href=https://tungpv.com.com/project/ted-recommender/recommend-sketch.png rel="Recommend-sketch">![Recommend-sketch](recommend-sketch.png)  
