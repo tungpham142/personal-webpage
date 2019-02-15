@@ -53,6 +53,6 @@ Front-end designs and expectations:
 ![Result Page](result.png)
 
 Sketches:
-<img src="search-sketch.png" alt="Search-sketch" width="125%" height="125%"/>
+<img src="search-sketch.png" alt="Search-sketch" width="200%" height="200%"/>
 ![Classify-sketch](classify-sketch.png)
 ![Recommend-sketch](recommend-sketch.png)  
