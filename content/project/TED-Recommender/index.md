@@ -53,6 +53,6 @@ Front-end designs and expectations:
 ![Result Page](result.png)
 
 Sketches:
-<a href=https://tungpv.com/project/ted-recommender/search-sketch.png rel="Search-Sketches">![Search-Sketches](search-sketch.png)</a>
+<a href=https://tungpv.com/project/ted-recommender/search-sketch.png rel="Search-Sketches" target="_blank">![Search-Sketches](search-sketch.png)</a>
 <a href=https://tungpv.com/project/ted-recommender/classify-sketch.png rel="Classify-sketch">![Classify-sketch](classify-sketch.png)</a>
 <a href=https://tungpv.com/project/ted-recommender/recommend-sketch.png rel="Recommend-sketch">![Recommend-sketch](recommend-sketch.png)</a>  
