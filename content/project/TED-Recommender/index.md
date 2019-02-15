@@ -47,12 +47,12 @@ external_link = ""
 
   With hundreds of different categories, TED has their speakers, who are professional and talented from all the fields from science to business to environment, share their lesions in an 18 minutes or less online talk. Therefore, there are around 93 thousand published TED videos. What if someone just watched a TED video and would like to find that video again, but he forgot the title, and the author’s name? What if someone is interested in the videos he watched and would like to find more similar videos? TED Recommender gives them the opportunity to search for a TED video by its content, describe, or simply by title and author’s name. The application also recommends similar videos base on user’s videos list, so they can keep exploring their interests.
 
-Front-end designs and expectations:
-![Search](search.png)
-![Recommend Page](recommender.png)
-![Result Page](result.png)
+  Front-end designs and expectations:
+  ![Search](search.png)
+  ![Recommend Page](recommender.png)
+  ![Result Page](result.png)
 
-Sketches:
-<a href=https://tungpv.com/project/ted-recommender/search-sketch.png rel="Search-Sketches">![Search-Sketches](search-sketch.png)  
-<a href=https://tungpv.com/project/ted-recommender/classify-sketch.png rel="Classify-sketch">![Classify-sketch](classify-sketch.png)</a>
-<a href=https://tungpv.com/project/ted-recommender/recommend-sketch.png rel="Recommend-sketch">![Recommend-sketch](recommend-sketch.png)  
+  Sketches:
+  <a href=https://tungpv.com/project/ted-recommender/search-sketch.png rel="Search-Sketches">![Search-Sketches](search-sketch.png)</a>
+  <a href=https://tungpv.com/project/ted-recommender/classify-sketch.png rel="Classify-sketch">![Classify-sketch](classify-sketch.png)</a>
+  <a href=https://tungpv.com/project/ted-recommender/recommend-sketch.png rel="Recommend-sketch">![Recommend-sketch](recommend-sketch.png)</a>  
