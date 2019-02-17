@@ -37,7 +37,7 @@ weight = 7
   icon = "apple"
   icon_pack = "fab"
   name = "Operating Systems"
-  description = "Windows, Unix/Linus, Mac OS%"  
+  description = "Windows, Unix/Linus, Mac OS"  
 
 [[feature]]
   icon = "angular"
