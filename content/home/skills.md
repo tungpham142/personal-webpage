@@ -22,33 +22,33 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  description = "75%"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming Languages"
+  description = "Python, Java, C#, JavaScript, MySQL, HTML, CSS"
 
 [[feature]]
-  icon = "python"
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Applications"
+  description = "Git, Github, Bash, Visual Studio, Sublime, Spyder"  
+
+[[feature]]
+  icon = "apple"
   icon_pack = "fab"
-  name = "Python"
-  description = "70%"  
+  name = "Operating Systems"
+  description = "Windows, Unix/Linus, Mac OS%"  
+
+[[feature]]
+  icon = "angular"
+  icon_pack = "fab"
+  name = "Frameworks"
+  description = "ASP .Net, Entity Framework, Flask"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "60%"  
-
-[[feature]]
-  icon = "js"
-  icon_pack = "fab"
-  name = "Javascript"
-  description = "50%"
-
-[[feature]]
-  icon = "php"
-  icon_pack = "fab"
-  name = "Php"
-  description = "50%"
+  name = "Related Knowledge"
+  description = "Statistics, Data Analysis, Agile Development"
 
 +++
