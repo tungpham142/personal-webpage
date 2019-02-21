@@ -13,7 +13,7 @@ summary = "An application to recommend similar videos on TED-Talks"
 tags = ["recommender-system", "ideas"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://ted-recommender.com"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
