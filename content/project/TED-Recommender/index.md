@@ -31,7 +31,7 @@ external_link = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "far", icon="file-pdf", name="Proposal", url = "https://tungpv.com/project/ted-recommender/TED-Recommender-Proposal.pdf"},{icon_pack = "far", icon="file-pdf", name="Report", url = "https://tungpv.com/project/ted-recommender/TED-Recommender-Report.pdf"} ,{icon_pack = "fab", icon="chrome", name="TED-Recommender Application", url = "http://ted-recommender.com"}]
+url_custom = [{icon_pack = "far", icon="file-pdf", name="Report", url = "https://tungpv.com/project/ted-recommender/TED-Recommender-Report.pdf"} ,{icon_pack = "fab", icon="chrome", name="TED-Recommender Application", url = "http://ted-recommender.com"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
