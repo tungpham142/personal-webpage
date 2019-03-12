@@ -1,7 +1,7 @@
 +++
 title = "Implement TF-IDF weight for search"
-subtitle = "Learn how to develop search engine web application using TF-IDF weight from scratch"
-summary = "Learn how to develop search engine web application using TF-IDF weight from scratch"
+subtitle = "Learn how to develop search engine for web application using TF-IDF weight from scratch"
+summary = "Learn how to develop search engine for web application using TF-IDF weight from scratch"
 date = 2019-03-12T00:00:00Z
 draft = false
 
@@ -79,9 +79,9 @@ To complete this task, first, we create weight vectors, which is dictionary vari
 
 Where *tf* is term frequency, which is measure by how many times the term occurs in the document.
 
-​            *df* is document frequency, which is the count of how many documents contain the term.
+​      *df* is document frequency, which is the count of how many documents contain the term.
 
-​	    *N* is the total number of documents.
+​	   *N* is the total number of documents.
 
 
 
@@ -109,9 +109,9 @@ Each term in the query will then be given total similarity points respect to the
 
 ![img](https://tungpv.com/img/search-ted/eqt3.png)
 
-Where  ![img](https://tungpv.com/img/search-ted/eqt5.png) is the weight of the term in the query.
+Where  *Wt,q* is the weight of the term in the query.
 
-​                ![img](https://tungpv.com/img/search-ted/eqt6.png) is the weight of the term in the document.
+​       *Wt,d* is the weight of the term in the document.
 
 
 
