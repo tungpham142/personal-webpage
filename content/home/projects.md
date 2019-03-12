@@ -49,6 +49,22 @@ filter_default = 0
    tag = "python"     
 
   [[filter]]
+   name = "HTML"
+   tag = "html" 
+
+  [[filter]]
+   name = "CSS"
+   tag = "css" 
+
+  [[filter]]
+   name = "PHP"
+   tag = "php" 
+
+  [[filter]]
+   name = "Javascript"
+   tag = "javascript" 
+
+  [[filter]]
    name = "Flask"
    tag = "flask"   
 

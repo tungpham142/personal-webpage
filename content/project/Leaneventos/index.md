@@ -10,7 +10,7 @@ summary = "a web page for creating/managing events, managing volunteers/organiza
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["php", "html", css, javascript]
+tags = ["php", "html", "css", "javascript"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
