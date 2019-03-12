@@ -41,8 +41,8 @@ filter_default = 0
 #   tag = "*"
 
  [[filter]]
-   name = "Recommender System"
-   tag = "recommender-system"
+   name = "All"
+   tag = "all"
 
   [[filter]]
    name = "Python"
@@ -67,9 +67,5 @@ filter_default = 0
   [[filter]]
    name = "Flask"
    tag = "flask"   
-
- [[filter]]
-   name = "Other"
-   tag = "other"
 
 +++

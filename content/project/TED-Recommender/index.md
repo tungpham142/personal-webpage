@@ -10,7 +10,7 @@ summary = "An application to search, classify, and recommend similar videos on T
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["recommender-system", "python", "flask"]
+tags = ["recommender-system", "python", "flask", "all"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
