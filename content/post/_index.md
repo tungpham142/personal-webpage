@@ -10,6 +10,6 @@ list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "search-ted/search-thumbnail.png"
+caption = "How to develop search engine web application using TF-IDF weight from scratch"
 +++
