@@ -48,6 +48,18 @@ filter_default = 0
    name = "Ideas"
    tag = "ideas"   
 
+  [[filter]]
+   name = "Python"
+   tag = "python"   
+
+  [[filter]]
+   name = "Bootstrap"
+   tag = "bootstrap"   
+
+  [[filter]]
+   name = "Flask"
+   tag = "flask"   
+
  [[filter]]
    name = "Other"
    tag = "other"
