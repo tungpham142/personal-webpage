@@ -32,7 +32,7 @@ external_link = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "far", icon="file-pdf", name="Requirements", url = "https://tungpv.com/project/leaneventos/requirement.pdf"}, {icon_pack = "far", {icon_pack = "fab", icon="chrome", name="Leaneventos Application", url = "http://tungpv.uta.cloud/"}]
+url_custom = [{icon_pack = "far", icon="file-pdf", name="Requirements", url = "https://tungpv.com/project/leaneventos/requirement.pdf"}, {icon_pack = "fab", icon="chrome", name="Leaneventos Application", url = "http://tungpv.uta.cloud/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
