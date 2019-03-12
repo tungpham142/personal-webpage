@@ -6,7 +6,7 @@ title = "TED Recommender"
 date = 2019-01-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "An application to recommend similar videos on TED-Talks"
+summary = "An application to search, classify, and recommend similar videos on TED-Talks"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
