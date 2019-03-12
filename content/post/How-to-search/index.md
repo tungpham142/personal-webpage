@@ -30,12 +30,12 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
-
 +++
+
 
 To implement a search feature, which is very similar to a simple version of google, the easiest way is to use **Bag of Words** model, to give a **TF-IDF** weight to each word appear in the dataset. Therefore, whenever you enter a query, the application would return the **documents** contains the query terms with the biggest total weight.
 
-For the dataset of all videos on TED-Talks (<https://www.kaggle.com/rounakbanik/ted-talks>), the mission is to construct a **postings list** for all the terms in *video title, author, description, and script* columns. Each term in the postings list would have the form of *term **t: [**document **d1,** TF-IDF weight **w1**], [document **d2,** TF-IDF weight **w2**], …*
+For the dataset of all videos on TED-Talks (<https://www.kaggle.com/rounakbanik/ted-talks>), the mission is to construct a **postings list** for all the terms in *video title, author, description, and script* columns. Each term in the postings list would have the form of *term* ***t****: [document* ***d1,*** *TF-IDF weight* ***w1****], [document* ***d2,*** *TF-IDF weight* ***w2****], …*
 
 <h2>1. Back-end Engine:</h2>
 
@@ -71,7 +71,7 @@ Moreover, in English, one words usually have many different forms such as tenses
 
 **Processing:**
 
-The mission of processing is to go through the **Bag of Words** to give each word their lists of documents and corresponding **TF-IDF** weight in the form of *term **t: [**document **d1,** TF-IDF weight **w1**], [document **d2,** TF-IDF weight **w2**], …*
+The mission of processing is to go through the **Bag of Words** to give each word their lists of documents and corresponding **TF-IDF** weight in the form of *term* ***t****: [document* ***d1,*** *TF-IDF weight* ***w1****], [document* ***d2,*** *TF-IDF weight* ***w2****], …*
 
 To complete this task, first, we create weight vectors, which is dictionary variables with each term as a key. For each document, we pick up the key term **t**, calculate their weight **w** for the document **d** and store it as a value. The **TF-IDF** of the term for each document would be given by:
 
@@ -79,9 +79,9 @@ To complete this task, first, we create weight vectors, which is dictionary vari
 
 Where *tf* is term frequency, which is measure by how many times the term occurs in the document.
 
-​            *df* is document frequency, which is the count of how many documents contain the term.
+​      *df* is document frequency, which is the count of how many documents contain the term.
 
-​	    *N* is the total number of documents.
+​	   *N* is the total number of documents.
 
 
 
@@ -109,9 +109,9 @@ Each term in the query will then be given total similarity points respect to the
 
 ![img](https://tungpv.com/img/search-ted/eqt3.png)
 
-Where  ![img](https://tungpv.com/img/search-ted/eqt5.png) is the weight of the term in the query.
+Where  *Wt,q* is the weight of the term in the query.
 
-​                ![img](https://tungpv.com/img/search-ted/eqt6.png) is the weight of the term in the document.
+​       *Wt,d* is the weight of the term in the document.
 
 
 
