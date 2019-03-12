@@ -1,4 +1,37 @@
-<h1>How to develop search engine web application using TF-IDF weight from scratch</h1>
++++
+title = "Implement TF-IDF weight for search"
+subtitle = "Learn how to develop search engine web application using TF-IDF weight from scratch"
+summary = "Learn how to develop search engine web application using TF-IDF weight from scratch"
+date = 2019-03-12T00:00:00Z
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["admin"]
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Search", "Web Application", "Flask"]
+categories = []
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
++++
+
 
 To implement a search feature, which is very similar to a simple version of google, the easiest way is to use **Bag of Words** model, to give a **TF-IDF** weight to each word appear in the dataset. Therefore, whenever you enter a query, the application would return the **documents** contains the query terms with the biggest total weight.
 
