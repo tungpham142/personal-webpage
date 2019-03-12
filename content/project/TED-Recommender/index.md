@@ -54,7 +54,7 @@ focal_point = "Left"
 
 <u>**Current phase:**</u>
 
-*Implement classification feature*
+- *Implement classification feature*
 
 Visit: [TED-Recommender.com](http://ted-recommender.com)
 

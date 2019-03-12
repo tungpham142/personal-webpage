@@ -6,7 +6,7 @@ title = "Leaneventos"
 date = 2019-01-30T00:00:00
 
 # Project summary to display on homepage.
-summary = "a web page for creating/managing events, managing volunteers/organizations, and controlling participants/donations."
+summary = "A web page for creating events, managing volunteers & organizations, and controlling participants & donations."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -57,7 +57,7 @@ focal_point = "Left"
 
 <u>**Current Phase:**</u>
 
-*Develop blog web page*
+- *Develop blog page*
 
 <h2>Why LeanEvento?</h2>
 
