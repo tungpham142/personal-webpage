@@ -44,17 +44,9 @@ filter_default = 0
    name = "Recommender System"
    tag = "recommender-system"
 
- [[filter]]
-   name = "Ideas"
-   tag = "ideas"   
-
   [[filter]]
    name = "Python"
-   tag = "python"   
-
-  [[filter]]
-   name = "Bootstrap"
-   tag = "bootstrap"   
+   tag = "python"     
 
   [[filter]]
    name = "Flask"

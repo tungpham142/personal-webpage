@@ -10,7 +10,7 @@ summary = "An application to recommend similar videos on TED-Talks"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["recommender-system", "ideas", "python", "bootstrap", "flask"]
+tags = ["recommender-system", "python", "flask"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
