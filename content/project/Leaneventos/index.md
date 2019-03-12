@@ -42,4 +42,48 @@ url_custom = [{icon_pack = "far", icon="file-pdf", name="Requirements", url = "h
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = "Left"
+
 +++
+
+**<u>Completed Phase:</u>**
+
+- *Construct application requirements & sketch database*
+
+  [Read Requirement](https://tungpv.com/project/leaneventos/requirement.pdf)
+
+- *Developed web page front-end using pure HTML & CSS*
+
+  Visit: [Leanevento](http://tungpv.uta.cloud/)
+
+<u>**Current Phase:**</u>
+
+*Develop blog web page*
+
+<h2>Why LeanEvento?</h2>
+
+Lean is a non-profit organization, which helps bring *free medicines* to needed countries.
+The **mission** of Lean is to collect donated *medicines*, *clothes*, and to *ship* them to their desire
+destinations. Lean raises their funds and donation storage by organize both **free and paid events.**
+For free events, their intention is to attract as many participants as they can, so that they would
+have more donations. For paid events, Lean collaborates with other organizations to create more
+memorable and worth paying events, in this way participants are happy to *buy tickets* to attend,
+and also keep up with their charity. Lean doing their fundraising through **LEANEVENTO**, a web
+application that allows *creating/managing events, managing volunteers/organizations, and*
+*controlling participants/donations.*
+
+**LEANEVENTO** Web Application is built using *XAMPP*, which consists of **Apache** web
+server with other features built in. The web application is implemented with **HTML**, **CSS** and
+**JavaScript** on the front-end as many other websites. Database would be stored and managed
+using **MySQL**, which is stacked in and very convenient to use with XAMPP. On the back-end,
+server-side logic and database connection would be managed by **PHP**. To fulfill all the aspects of
+*creating/managing events* for donations, the application is implemented with seven pages, which
+has its own functionalities in the process. Each page is designed in a specific way to interact with
+the database to complete its task. Because the content on every page of the web application is
+written in Spanish, all the phrases, images, colors, … are given by the patronage.
+
+
+
+
+
+
+
