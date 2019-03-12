@@ -1,74 +1,48 @@
 +++
-
-**# Project title.**
-
+# Project title.
 title = "TED Recommender"
 
-**# Date this page was created.**
-
+# Date this page was created.
 date = 2019-01-28T00:00:00
 
-**# Project summary to display on homepage.**
-
+# Project summary to display on homepage.
 summary = "An application to recommend similar videos on TED-Talks"
 
-**# Tags: can be used for filtering projects.**
-
-**# Example: `tags = ["machine-learning", "deep-learning"]`**
-
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["recommender-system", "python", "flask"]
 
-**# Optional external URL for project (replaces project detail page).**
-
+# Optional external URL for project (replaces project detail page).
 external_link = ""
 
-**# Slides (optional).**
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides = "LCR_Proposal.pdf"
 
-**#   Associate this project with Markdown slides.**
+# Links (optional).
+#url_pdf = ""
+#url_slides = ""
+#url_video = ""
+#url_code = ""
 
-**#   Simply enter your slide deck's filename without extension.**
-
-**#   E.g. `slides = "example-slides"` references**
-
-**#   `content/slides/example-slides.md`.**
-
-**#   Otherwise, set `slides = ""`.**
-
-**# slides = "LCR_Proposal.pdf"**
-
-**# Links (optional).**
-
-**#url_pdf = ""**
-
-**#url_slides = ""**
-
-**#url_video = ""**
-
-**#url_code = ""**
-
-**# Custom links (optional).**
-
-**#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.**
-
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{icon_pack = "far", icon="file-pdf", name="Proposal", url = "https://tungpv.com/project/ted-recommender/TED-Recommender-Proposal.pdf"}, {icon_pack = "far", icon="file-pdf", name="How I built this", url = "https://tungpv.com/project/ted-recommender/TED-Recommender-Report.pdf"}, {icon_pack = "fab", icon="chrome", name="TED-Recommender Application", url = "http://ted-recommender.com"}]
 
-**# Featured image**
-
-**# To use, add an image named `featured.jpg/png` to your project's folder.**
-
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
+# Caption (optional)
+# caption = "Photo by rawpixel on Unsplash"
 
-**# Caption (optional)**
-
-**# caption = "Photo by rawpixel on Unsplash"**
-
-**# Focal point (optional)**
-
-**# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight**
-
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = "Left"
-
-------
++++
 
 <u>**Completed phase**</u>:
 
