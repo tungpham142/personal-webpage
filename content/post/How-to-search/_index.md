@@ -12,6 +12,8 @@ list_format = 2
 [header]
 image = "search-ted/search-thumbnail.png"
 caption = "How to develop search engine web application using TF-IDF weight from scratch"
++++
+
 
 <h1>How to develop search engine web application using TF-IDF weight from scratch</h1>
 
@@ -168,6 +170,3 @@ Moreover, the application breaks the query into terms and treat them separately.
 In developing the application, the most challenging part is the run time. Because the algorithm has to go through all the script of each video, which is very long and contains big size of words. **Tokenize** and compute **TF-IDF weight** of every word cost a lot of run time. For the ted.py file to complete the process and got the web application running, it usually takes 5 to 10 hours to finish. Therefore, for each time I need to test the engine, I must down size the preprocessing step to only **tokenize** the title of the videos.
 
  
-
-
-+++
