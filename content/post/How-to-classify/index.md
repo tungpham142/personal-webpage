@@ -36,6 +36,8 @@ In the real world, data usually divided into different categories or genres. For
 
 Refer to our data set of TED-Talks videos on TED-Talks (<https://www.kaggle.com/rounakbanik/ted-talks>), we can calculate the **conditional** **probability** of each term in the data set’s vocabulary appear in each category. For example, we would want to know what’s the **conditional probability** of the term *“laugh”* appears in *“Funny”* videos.
 
+The classification is implemented on top of the **TED-Recommender** *Web Application*. Therefore, all the **App Framework**, **Presentation**, and **Hosting** would be the same and can be refer at the last post: *Implement TF-IDF weight for search*(https://tungpv.com/post/how-to-search/).
+
 **1. Preprocessing:**
 
 Because the data set **ratings** **column** consists of many categories for one video, the first step we have to do is to pick only one category and limited the number of categories.
@@ -78,7 +80,7 @@ To implemented all the calculation into our **Ted Engine**, I run a loop to comp
 
 **3. Classification:**
 
-Whenever a query is given for **classification**, they would go through the same preprocessing of **Tokenization, Stemming **, and eliminate **Stop Words**. Next step, a score will be given for each class using **Naïve Bayes**. The final step is to sort the score and send it to the front-end for presentation.
+Whenever a query is given for **classification**, they would go through the same preprocessing of **Tokenization**, **Stemming**, and eliminate **Stop Words**. Next step, a score will be given for each class using **Naïve Bayes**. The final step is to sort the score and send it to the front-end for presentation.
 
 ![1556006009172](https://tungpv.com/img/classification-ted/1556006009172.png)
 
