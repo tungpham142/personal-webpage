@@ -1,3 +1,37 @@
++++
+title = "Implement text classification using Naïve Bayes"
+subtitle = "Learn how to implement text classification from scratch using Naïve Bayes"
+summary = "Learn how to implement text classification from scratch using Naïve Bayes"
+date = 2019-04-20T00:00:00Z
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Tung Pham"]
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Classification", "Web Application", "Flask"]
+categories = []
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
++++
+
 In the real world, data usually divided into different categories or genres. For example, movies would have action, horror, comedy, or family as genres. However, what if we have already had all the movies manually categorized, and we want to classify a new movie? This actually can be done using very simple concept of probability, which is **Naïve Bayes**. 
 
 Refer to our data set of TED-Talks videos on TED-Talks (<https://www.kaggle.com/rounakbanik/ted-talks>), we can calculate the **conditional** **probability** of each term in the data set’s vocabulary appear in each category. For example, we would want to know what’s the **conditional probability** of the term *“laugh”* appears in *“Funny”* videos.
