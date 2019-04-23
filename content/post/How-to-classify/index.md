@@ -56,7 +56,7 @@ The classification function use a very simple concept of **Naïve Bayes**. Howev
 
 **<u>Reference:</u>**
 
-TED-Talks videos on TED-Talks (<https://www.kaggle.com/rounakbanik/ted-talks>)
+TED-Talks videos on TED-Talks (<https://www.kaggle.com/rounakbanik/ted-talks>).
 
-Text classification and Naïve Bayes (<https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf>)
+Text classification and Naïve Bayes (<https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf>).
 
