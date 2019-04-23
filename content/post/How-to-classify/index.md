@@ -42,7 +42,7 @@ To implemented all the calculation into our **Ted Engine**, I run a loop to comp
 
 
 
-**3. Classification: **
+**3. Classification:**
 
 Whenever a query is given for **classification**, they would go through the same preprocessing of **Tokenization, Stemming **, and eliminate **Stop Words**. Next step, a score will be given for each class using **Naïve Bayes**. The final step is to sort the score and send it to the front-end for presentation.
 
