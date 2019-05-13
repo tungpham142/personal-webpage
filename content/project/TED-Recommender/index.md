@@ -63,7 +63,7 @@ focal_point = "Left"
 - *Design final Brochure and Introduce Video*
 
 
-Watch: [Tutorial Video](https:site.com/)
+Watch: [Tutorial Video](https://www.youtube.com/watch?v=_aRoIDG5Tm8/)
 
 Download: [Project Brochure](https://tungpv.com/files/brochure.pdf/)
 
