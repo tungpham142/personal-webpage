@@ -52,11 +52,16 @@ focal_point = "Left"
 
 [Read how to implemet TF-IDF weight for search](https://tungpv.com/post/how-to-search/)
 
-<u>**Current phase:**</u>
-
 - *Implement classification feature*
+[Read how to implemet Naive Bayes for classification](https://tungpv.com/post/how-to-classify/)
 
-Visit: [TED-Recommender.com](http://ted-recommender.com)
+- *Implement recommender feature*
+[Read how to implemet item-based for recommender](https://tungpv.com/post/how-to-classify/)
+
+**Completed**
+
+
+Visit: [TED-Recommender.com](http://3.17.150.50)
 
 ## Why TED Recommender?
 
