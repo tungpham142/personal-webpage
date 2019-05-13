@@ -68,7 +68,17 @@ However, first, for each class c in the categories, the **prior probability** wo
 
  Then the **conditional probability** can be calculated by the frequency of term t in documents belong to class c.
 
+
+
 ![1556005441887](https://tungpv.com/img/classification-ted/1556005441887.png)
+
+However, to avoid sparseness that would lead conditional probabilities to be **zero**, we should 
+apply **smoothing** into the calculation. To do this, we add 1 to all the term to avoid 0 on the 
+numerator and add the number of unique terms to the denominator for normalization. 
+
+![1557735351447](https://tungpv.com/img/classification-ted/1557735351447.png)
+
+
 
 To implemented all the calculation into our **Ted Engine**, I run a loop to compute all the **condition probability** of each term in the respected class. 
 
@@ -84,9 +94,16 @@ Whenever a query is given for **classification**, they would go through the same
 
 ![1556006009172](https://tungpv.com/img/classification-ted/1556006009172.png)
 
-**4. Challenging:**
+**4. Contribution**:
 
-The classification function use a very simple concept of **Naïve Bayes**. However, because there are assumptions about the relations of the **condition probabilities**, the classification score can be incorrect. Moreover, because the vocabulary is very large, the computational time is very long, even though the categories size has already been reduced a lot. 
+Although the whole concept and computation are developed based on the *Text classification and Naïve Bayes* on *Introduction to Information Retrieval*, the algorithms are built manually to fit the application purpose and dataset structure.  The computations are fully constructed from theorem, mathematical representation to code. Modify the formula for calculating the probability to not only classify the document to the most probability class, but also show all other percentages of classes for evaluations. 
+
+
+
+
+**5. Challenging:**
+
+The classification function use a very simple concept of **Naïve Bayes**. However, because there are assumptions about the relations of the **condition probabilities**, the classification score can be incorrect. The conditional probabilities can eventually become zero when the query getting too long due to many multiplications of very small number. We can solve this by compute the score base on the sum of log between conditional probabilities, which is much more reliable and scalable. Moreover, because the vocabulary is very large, the computational time is very long, even though the categories size has already been reduced a lot. 
 
 
 
