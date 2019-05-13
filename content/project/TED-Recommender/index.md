@@ -60,7 +60,7 @@ focal_point = "Left"
 
 [Read how to implemet Item-based for recommender](https://tungpv.com/post/how-to-classify/)
 
-- * Design final Brochure and Introduce Video*
+- *Design final Brochure and Introduce Video*
 
 
 Visit: [TED-Recommender.com](http://3.17.150.50)
