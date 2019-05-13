@@ -1,3 +1,4 @@
++++
 title = "How to suggest new Ted-talks using item-based"
 subtitle = "Learn how to develop recommender system for web application using item-based from scratch"
 summary = "Learn how to develop recommender system for web application using item-based from scratch."
@@ -46,6 +47,7 @@ categories = []
 
 
   focal_point = "Center"
++++
 
 As data grow rapidly, we often get lost in what we want to find. For example, there is a lot of different items available on Amazon. It is impossible for us as customers to go and search for exactly what we want every time.  Recommender system comes out handy to help items reach out to their clients easier. Whenever we search, purchase, or give feedback for an item, Amazon will immediately suggest similar items, which give us more selections.
 
