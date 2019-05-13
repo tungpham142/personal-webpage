@@ -121,6 +121,10 @@ The final step is to **sort** the similarity list, so that, we can retrieve the 
 | -------------------------------------------------- |
 | ![img](https://tungpv.com/img/search-ted/pic5.png) |
 
+**Contribution:**
+
+Combine the tutorial by Dr. Chengkai Li with the computation theory from the book *Introduction to Information Retrieval*. Since the formula for calculating similarity in the book is theory, that is explained using mathematical representation, I construct the algorithm from scratch. Because there are a lot of computations of TF-IDF weight, the process would take hours, or days to be completed. I have successfully performed preprocessing to reconstruct the dataset, eliminate space characters, stop-list words, and shorten all the terms to downsize and fasten the processing time significantly. 
+
 
 
 <h2>2. App Framework:</h2>
@@ -169,15 +173,15 @@ When connected to the host terminal, we can run the application as we run it on 
 
 
 
-Just remember to let the app run on **host 0.0.0.0** and **port 80**, so that we can retrieve the web application by connecting to the **floating IP** of the hosting machine. For example, you can request TED Recommender web page by the URL: **157.230.66.155.**
+Just remember to let the app run on **host 0.0.0.0** and **port 80**, so that we can retrieve the web application by connecting to the **floating IP** of the hosting machine. For example, you can request TED Recommender web page by the URL: **http://3.17.150.50**
+
+
 
 |                                                     |
 | --------------------------------------------------- |
 | ![img](https://tungpv.com/img/search-ted/pic10.png) |
 
- 
-
-<h2>5. Challenging:</h2>
+<h2>6. Challenging:</h2>
 
 Because the **search** feature use **Bag of Words** model, the engine just collects all the words and calculate their weights without understanding any of the term’s **semantics.** Therefore, the application can only return the documents that contains most of the terms in the query. If users enter a query using any other meaning of the term, the application might not return user’s expected documents.
 
@@ -189,4 +193,7 @@ In developing the application, the most challenging part is the run time. Becaus
 
 TED-Talks videos on TED-Talks (<https://www.kaggle.com/rounakbanik/ted-talks>).
 
+Chapter 6 Scoring, term weighting and the vector space model, Introduction to Information Retrieval by [Christopher D. Manning](http://nlp.stanford.edu/~manning/), [Prabhakar Raghavan](http://theory.stanford.edu/~pragh/) and [Hinrich Schütze](http://www.cis.uni-muenchen.de/personen/professoren/schuetze/)
+
  **Dr. Chengkai Li** Data Mining class (<http://crystal.uta.edu/~cli/cse5334/>). 
+

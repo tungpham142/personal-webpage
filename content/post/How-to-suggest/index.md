@@ -1,10 +1,59 @@
+title = "How to suggest new Ted-talks using item-based"
+subtitle = "Learn how to develop recommender system for web application using item-based from scratch"
+summary = "Learn how to develop recommender system for web application using item-based from scratch."
+date = 2019-03-12T00:00:00Z
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+
+authors = ["Tung Pham"]
+
+# Tags and categories
+
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+
+tags = ["Recommender", "Web Application", "Flask"]
+categories = []
+
+# Projects (optional).
+
+# Associate this post with one or more of your projects.
+
+# Simply enter your project's folder or file name without extension.
+
+# E.g. `projects = ["deep-learning"]` references 
+
+# `content/project/deep-learning/index.md`.
+
+# Otherwise, set `projects = []`.
+
+# projects = ["internal-project"]
+
+# Featured image
+
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+
+[image]
+
+# Caption (optional)
+
+  caption = ""
+
+# Focal point (optional)
+
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+
+
+
+  focal_point = "Center"
+
 As data grow rapidly, we often get lost in what we want to find. For example, there is a lot of different items available on Amazon. It is impossible for us as customers to go and search for exactly what we want every time.  Recommender system comes out handy to help items reach out to their clients easier. Whenever we search, purchase, or give feedback for an item, Amazon will immediately suggest similar items, which give us more selections.
 
 To replicate a simple recommender system, we use a combination of **content-based** and **collaborative filtering** for our system. However, we need many different users to have diverted ratings on our system to implement collaborative filtering. As a simple system with a static dataset, it would be easier to just apply **content-based** for our recommender system.
 
 
 
-**1. Back-end Engine:**
+<h3>**1. Back-end Engine:**</h3>
 
 To construct a  **content-based** recommend system, our mission is to build a **profile** for each ted-talk video. Each video **profile** consists of *characteristics* of terms that are important to the talks. For example, those features can be the *title*, *author name*, or *category* of the talk. Whenever users need a suggestion on a given video, we can use the video's profile to look for the closet videos base on their **Cosine Similarity**.  
 
@@ -30,13 +79,13 @@ Whenever users request for a suggestion on a video, we capture the **video ID** 
 
 ![1557733448929](C:\Users\Tung\AppData\Roaming\Typora\typora-user-images\1557733448929.png)
 
-**2. Contribution:**
+<h3>**2. Contribution:**</h3>
 
 All back-end logic and calculation are developed based on Chapter 9 Recommendation Systems of Mining of Massive Datasets book. However, the algorithm to complete this task is manually generated. Because even though we concatenated all characteristic terms of each video, the final terms in each document are not that very long. Therefore, it would be better to keep all the terms' TF-IDF scores instead of just pick n terms as the features. Moreover, to make sure the author name is more important because it is a high chance that users want to watch more videos from the same author, I also put the author name inside of the talk's titles.
 
 
 
-**3. Challenging:**
+<h3>**3. Challenging:**</h3>
 
 As the same as other Bag of Words models, the recommend system only suggests videos based on the similarities between the occurrences of the same words, without any meaning behind the context. 
 
