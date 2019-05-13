@@ -53,11 +53,12 @@ focal_point = "Left"
 
 - *Developed web page front-end using pure HTML & CSS*
 
-  Visit: [Leanevento](http://tungpv.uta.cloud/)
-
 - *Developed web page back-end logic, with hand-craft SQL to manipulate database tables*
 
 - *Complete the application by reconstruct the whole web pages using Codeigniter*
+
+  Visit: [Leanevento](http://tungpv.uta.cloud/)
+
 
 
 <h2>Why LeanEvento?</h2>
