@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "https://www.lanvera.com/"
   location = "Coppell, Texas"
   date_start = "June 2019"
-  date_end = "Current"
+  date_end = ""
   description = """
   * Ensured more than 85% of the code are covered and functioned as expected by designing test plans and creating Unit tests.
   * Improved the productivity to 3000 lines of code covered each week by self-taught and applying MS Fakes Framework, a tool to isolate code under test.
@@ -62,9 +62,9 @@ date_format = "January 2006"
   date_start = "August 2017"
   date_end = "January 2018"
   description = """
-*	Developed and maintained the management system used by different childcare centers. 
-*	Improved the performance, look and feel for doing payroll and scheduling by implementing features on top of the existing functionality and backward compatibility with old releases. 
-    """
+  *	Developed and maintained the management system used by different childcare centers. 
+  *	Improved the performance, look and feel for doing payroll and scheduling by implementing features on top of the existing functionality and backward compatibility with old  releases. 
+  """
 
   [[experience]]
     title = "Computer Assistant"
