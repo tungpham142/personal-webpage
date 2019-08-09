@@ -26,7 +26,7 @@ date_format = "January 2006"
   date_start = "2019-06-12"
   date_end = ""
   description = """
-
+<br></br>
   * Work in team to develop and maintain the company internal system, which is used to control and manage workflow within the company. 
   * Improve the performance in tracking errors by leading the effort to build a monitor feature 
   * Responsible for initial research on requirements, design and implement the features.
@@ -41,7 +41,7 @@ date_format = "January 2006"
   date_start = "2018-05-01"
   date_end = "2018-08-31"
   description = """
- <br>
+<br></br>
   * Ensured more than 85% of the code are covered and functioned as expected by designing test plans and creating Unit tests.
   * Improved the productivity to 3000 lines of code covered each week by self-taught and applying MS Fakes Framework, a tool to isolate code under test.
   """
@@ -54,7 +54,7 @@ date_format = "January 2006"
   date_start = "2018-01-01"
   date_end = "2018-04-01"
   description = """
-   <br>
+<br></br>
   * Participated in a fresh start-up company to develop a web application on lingbook.io, which allows users to master their English vocabulary by phrases. 
   * Implemented Stanford CoreNLP, an open-source API to analyze the structure of sentences.
   """
@@ -67,7 +67,7 @@ date_format = "January 2006"
   date_start = "2017-08-01"
   date_end = "2018-01-01"
   description = """
- <br>
+ <br></br>
   *	Developed and maintained the management system used by different childcare centers. 
   *	Improved the performance, look and feel for doing payroll and scheduling by implementing features on top of the existing functionality and backward compatibility with old  releases. 
   """
