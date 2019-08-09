@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "Aurea Software"
   company_url = "https://www.lanvera.com/"
   location = "Coppell, Texas"
-  date_start = "June 2019"
+  date_start = "2019"
   date_end = ""
   description = """
   * Ensured more than 85% of the code are covered and functioned as expected by designing test plans and creating Unit tests.
