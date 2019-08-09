@@ -6,31 +6,35 @@ name = "Tung Pham"
 superuser = true
 
 # Role/position
-role = "Graduate Student in Computer Science"
+role = "Software Engineer Intern | Graduate Student in Computer Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Texas at Arlington", url = "https://cse.uta.edu/" } ]
+organizations = [ { name = "Lanvera", url = "https://www.lanvera.com/" }, { name = "University of Texas at Arlington", url = "https://cse.uta.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = ""
+bio = "Passion in creating better software"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "tpv.142@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Machine Learning",
+  "Algorithm",
+  "Software Development",
   "Information Retrieval",
-  "Web Development"
+  "Machine Learning"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Bachelor's Degree in Software Engineer"
+  course = "Master's in Computer Science"
   institution = "University of Texas at Arlington"
   year = 2017
+[[education.courses]]
+  course = "Bachelor's Degree in Software Engineer"
+  institution = "University of Texas at Arlington"
+  year = 2020
 
 # Social/Academic Networking
 #
@@ -76,4 +80,6 @@ interests = [
 
 Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focuses on extending software engineering principles, advanced algorithms, and intelligent systems.
 
-He is currently doing an internship in the development team at Lanvera, where he is responsible for designing and implementing new features for an existing internal system, which is used to control and monitor workflow within the company.
+He is currently doing an internship in the development team at Lanvera, where he maintains, designs, and implements features for the internal system, which is used to control and manage workflow within the company.
+
+His passion is to write better, more efficient code to create quality products, that would improve the user experience.
