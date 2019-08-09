@@ -59,6 +59,11 @@ interests = [
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/tung-viet-pham/"
+  
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/tungpham142/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -69,4 +74,6 @@ interests = [
 
 +++
 
-Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focus majorly in Intelligent Systems and Databases. He has experiences in Web Development, and actively growing his knowledge in Databases, Artificial Intelligence, and Machine Learning.
+Tung Pham is a graduate student in Computer Science at the University of Texas at Arlington. His study focuses on extending software engineering principles, advanced algorithms, and intelligent systems.
+
+He is currently doing an internship in the development team at Lanvera, where he is responsible for designing and implementing new features for an existing internal system, which is used to control and monitor workflow within the company.

@@ -19,54 +19,59 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Software Engineer"
+  title = "Software Engineer Intern"
+  company = "Aurea Software"
+  company_url = "https://www.lanvera.com/"
+  location = "Coppell, Texas"
+  date_start = "June 2019"
+  date_end = "Current"
+  description = """
+  * Ensured more than 85% of the code are covered and functioned as expected by designing test plans and creating Unit tests.
+  * Improved the productivity to 3000 lines of code covered each week by self-taught and applying MS Fakes Framework, a tool to isolate code under test.
+  """
+
+[[experience]]
+  title = "Software Engineer Intern"
   company = "Aurea Software"
   company_url = "https://www.aurea.com/"
-  location = "Texas"
-  date_start = "2018-05-01"
-  date_end = "2018-08-31"
+  location = "Austin, Texas"
+  date_start = "May 2018"
+  date_end = "August 2018"
   description = """
-  Responsibilities include:
-
-  * Used Visual Studio with Mock and Fake frameworks to work with international teams on
-implemented Unit Tests and ensured more than 85% lines of code from different C# projects are
-covered and functioned as expected.
-  * Collaborated with teams from distance using remote communicate tools such as Github and Skype
-to make sure there are 3000 lines of code are covered each week.
+  * Ensured more than 85% of the code are covered and functioned as expected by designing test plans and creating Unit tests.
+  * Improved the productivity to 3000 lines of code covered each week by self-taught and applying MS Fakes Framework, a tool to isolate code under test.
   """
 
 [[experience]]
   title = "Web Developer"
   company = "Lingbook Inc."
   company_url = ""
-  location = "Texas"
-  date_start = "2018-01-01"
-  date_end = "2018-04-01"
-  description = "Developed web application on lingbook.io, a small start-up site allows foreigners to learn new vocabulary base on phrases."
+  location = "Dallas, Texas"
+  date_start = "January 2018"
+  date_end = "April 2018"
+  description = """
+  * Participated in a fresh start-up company to develop a web application on lingbook.io, which allows users to master their English vocabulary by phrases. 
+  * Implemented Stanford CoreNLP, an open-source API to analyze the structure of sentences.
+  """
 
 [[experience]]
-  title = "Web Developer"
+  title = "Software Developer Intern"
   company = "Ayoka Systems"
   company_url = "https://www.ayokasystems.com/"
-  location = "Texas"
-  date_start = "2017-08-01"
-  date_end = "2018-01-01"
+  location = "Arlington, Texas"
+  date_start = "August 2017"
+  date_end = "January 2018"
   description = """
-  Responsibilities include:
-
-* Worked in teams to develop and maintain customer's web application using ASP .Net.
-* Used Source Tree as tool to collaborate, review, and debug other's code.
-* Implement new features on top of the existing functionality and backward compatibility
-with old releases.
-* Perform Bug fixing both for UI and business logic.
+*	Developed and maintained the management system used by different childcare centers. 
+*	Improved the performance, look and feel for doing payroll and scheduling by implementing features on top of the existing functionality and backward compatibility with old releases. 
     """
 
   [[experience]]
     title = "Computer Assistant"
     company = "Goodwill Industry"
     company_url = "https://www.goodwillcentraltexas.org/"
-    location = "Texas"
-    date_start = "2015-06-01"
-    date_end = "2015-09-30"
+    location = "Dallas, Texas"
+    date_start = "June 2015"
+    date_end = "September 2015"
     description = "Collaborated with other volunteers to train students with Microsoft Office and Internet Browser. "
 +++
