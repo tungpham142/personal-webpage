@@ -28,7 +28,7 @@ date_format = "January 2006"
   description = """ 
   
   * Work in team to develop and maintain the company internal system, which is used to control and manage workflow within the company. 
-  * Improve the performance in tracking errors by leading the effort to build a monitor feature 
+  * Improve the performance in tracking errors by leading the effort to build the dashboard and monitoring feature. 
   * Responsible for initial research on requirements, design and implement the features.
 
   """
