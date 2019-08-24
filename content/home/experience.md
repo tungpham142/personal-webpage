@@ -27,9 +27,10 @@ date_format = "January 2006"
   date_end = ""
   description = """ 
   
-  * Work in team to develop and maintain the company internal system, which is used to control and manage workflow within the company. 
-  * Improve the performance in tracking errors by leading the effort to build the dashboard and monitoring feature. 
-  * Responsible for initial research on requirements, design and implement the features.
+  * Work with the development team to develop and maintain the company internal system, which is used to control and manage workflow within the company. 
+
+  * Increase the performance in tracking and debugging errors by leading the effort to build the dashboard and monitor feature, a tool to visualize data and create alerts for defects. 
+  * Research, design, and implement new features based on detailed specifications of requirements. 
 
   """
 
@@ -42,6 +43,7 @@ date_format = "January 2006"
   date_end = "2018-08-31"
   description = """ 
 
+  * Collaborated with development teams to discover and debug errors at the early stage of production.
   * Ensured more than 85% of the code are covered and functioned as expected by designing test plans and creating Unit tests.
   * Improved the productivity to 3000 lines of code covered each week by self-taught and applying MS Fakes Framework, a tool to isolate code under test.
   """
@@ -69,7 +71,8 @@ date_format = "January 2006"
   description = """ 
 
   *	Developed and maintained the management system used by different childcare centers. 
-  *	Improved the performance, look and feel for doing payroll and scheduling by implementing features on top of the existing functionality and backward compatibility with old  releases. 
+  *	Improved the system performance, look and feel by implementing features on top of the existing functionality and backward compatibility with old releases.
+  * Refactored legacy code of the old features to decrease the number of defects found, and increase the maintainability.
   """
 
   [[experience]]

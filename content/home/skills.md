@@ -25,13 +25,13 @@ weight = 7
   icon = "code"
   icon_pack = "fas"
   name = "Programming Languages"
-  description = "Python, Java, C#, JavaScript, MySQL, HTML, CSS"
+  description = "Python, Java, C#, C, JavaScript, SQL, HTML/CSS, Bash"
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Applications"
-  description = "Git, Github, Bash, Visual Studio, Sublime, Spyder"  
+  description = "Git, Github, Visual Studio, Eclipse, MySQL, AWS"  
 
 [[feature]]
   icon = "apple"
