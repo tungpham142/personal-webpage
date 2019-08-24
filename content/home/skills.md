@@ -25,7 +25,7 @@ weight = 7
   icon = "code"
   icon_pack = "fas"
   name = "Programming Languages"
-  description = "Python, Java, C#, C, JavaScript, SQL, HTML/CSS, Bash"
+  description = "Python, Java, C#, C, JavaScript, SQL, HTML, CSS"
 
 [[feature]]
   icon = "laptop-code"
