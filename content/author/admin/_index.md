@@ -82,4 +82,4 @@ Tung Pham is a graduate student in Computer Science at the University of Texas a
 
 He is currently doing his internship at Lanvera, where he designs and implements new features for the company internal system, which is used to track and manage all workflows within the company.
 
-His passion is to write better, more efficient code to create quality products and improve the user experience.
+His passion is to learn new exciting technologies and apply them to write better, more efficient code to create quality products and improve the user experience.
