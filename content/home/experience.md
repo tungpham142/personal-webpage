@@ -67,7 +67,7 @@ date_format = "January 2006"
   company_url = "https://www.ayokasystems.com/"
   location = "Arlington, Texas"
   date_start = "2017-08-01"
-  date_end = "2017-01-01"
+  date_end = "2018-01-01"
   description = """ 
 
   *	Developed and maintained the management system used by different childcare centers. 
