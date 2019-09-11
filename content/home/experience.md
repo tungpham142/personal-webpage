@@ -53,7 +53,7 @@ date_format = "January 2006"
   company = "Lingbook Inc."
   company_url = ""
   location = "Dallas, Texas"
-  date_start = "2018-01-01"
+  date_start = "2018-02-01"
   date_end = "2018-04-01"
   description = """ 
 
