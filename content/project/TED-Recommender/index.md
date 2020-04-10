@@ -67,7 +67,7 @@ Watch: [Tutorial Video](https://www.youtube.com/watch?v=_aRoIDG5Tm8/)
 
 Download: [Project Brochure](https://tungpv.com/files/brochure.pdf/)
 
-Visit: [TED-Recommender.com](http://3.17.150.50)
+Visit: [TED-Recommender](http://3.17.150.50)
 
 ## Why TED Recommender?
 
